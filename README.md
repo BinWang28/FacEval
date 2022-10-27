@@ -15,15 +15,6 @@ For more details, please find our paper - [Analyzing and Evaluating Faithfulness
 If you find our work useful, please consider citing our work.
 
 ```
-@article{to update with the EMNLP Processings,
-  title={==},
-  author={==},
-  journal={==},
-  year={==}
-}
-```
-
-```
 @article{wang2022analyzing,
   title={Analyzing and Evaluating Faithfulness in Dialogue Summarization},
   author={Wang, Bin and Zhang, Chen and Zhang, Yan and Chen, Yiming and Li, Haizhou},
@@ -32,4 +23,13 @@ If you find our work useful, please consider citing our work.
 }
 ```
 
-Contact Info: [bwang28c@gmail.com](mailto:bwang28c@gmail.com).
+```
+@article{to update with the EMNLP Processings,
+  title={==},
+  author={==},
+  journal={==},
+  year={==}
+}
+```
+
+Corresponding to [bwang28c@gmail.com](mailto:bwang28c@gmail.com).
