@@ -4,7 +4,7 @@ For more details, please find our paper - [Analyzing and Evaluating Faithfulness
 
 ## Human Evaluation Results
 
-[human_result](https://github.com/BinWang28/FacEval/tree/main/human_result')
+[human_result](https://github.com/BinWang28/FacEval/tree/main/human_result/')
 
 We saved it as a csv file;
 150 dialogues;
