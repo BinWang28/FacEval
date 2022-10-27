@@ -4,9 +4,7 @@ For more details, please find our paper - [Analyzing and Evaluating Faithfulness
 
 ## Human Evaluation Results
 
-[human_result](https://github.com/BinWang28/FacEval/tree/main/human_result)
-
-- CSV format
+- CSV format: [Results](https://github.com/BinWang28/FacEval/tree/main/human_result)
 - 150 dialogues
 - 5 models (xx)
 
