@@ -4,6 +4,8 @@ For more details, please find our paper - [Analyzing and Evaluating Faithfulness
 
 ## Human Evaluation Results
 
+'https://github.com/BinWang28/FacEval/tree/main/human_result'
+
 We saved it as a csv file;
 150 dialogues;
  each dialogue is marked with
