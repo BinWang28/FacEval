@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 
-github_update.sh
+.github_update.sh
