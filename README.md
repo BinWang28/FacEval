@@ -32,4 +32,4 @@ If you find our work useful, please consider citing our work.
 }
 ```
 
-Corresponding to [bwang28c@gmail.com](mailto:bwang28c@gmail.com).
+Corresponding to Bin Wang at [bwang28c@gmail.com](mailto:bwang28c@gmail.com).
