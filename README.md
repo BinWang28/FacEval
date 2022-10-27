@@ -8,7 +8,7 @@ For more details, please find our paper - [Analyzing and Evaluating Faithfulness
 
 
 
-## Evaluation Tutorial for BART-Large Model on SAMSum dataset
+## Evaluation Example on BART-Large Model
 
 ## References
 
