@@ -4,6 +4,10 @@ For more details, please find our paper - [Analyzing and Evaluating Faithfulness
 
 ## Human Evaluation Results
 
+We saved it as a csv file;
+150 dialogues;
+ each dialogue is marked with
+
 ## Generated FacEval Dataset
 
 
