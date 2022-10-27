@@ -1,3 +1,3 @@
-# Human Evaluation Results Description
+# Description
 
 x
