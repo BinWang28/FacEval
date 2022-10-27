@@ -4,7 +4,7 @@ For more details, please find our paper - [Analyzing and Evaluating Faithfulness
 
 ## Human Evaluation Results
 
-## Generated FacEval datasets
+## Generated FacEval Dataset
 
 
 
