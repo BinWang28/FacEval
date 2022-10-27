@@ -10,5 +10,5 @@
 
 ## References
 
-If you find our work useful, please consider citing our work:
+If you find our work useful, please consider citing our work.
 - E
