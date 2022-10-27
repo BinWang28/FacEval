@@ -6,9 +6,9 @@ For more details, please find our paper - [Analyzing and Evaluating Faithfulness
 
 [human_result](https://github.com/BinWang28/FacEval/tree/main/human_result)
 
-We saved it as a csv file;
-150 dialogues;
- each dialogue is md with
+- CSV format
+- 150 dialogues
+- 5 models (xx)
 
 ## Generated FacEval Dataset
 
