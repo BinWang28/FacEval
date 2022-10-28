@@ -14,6 +14,10 @@ We provide our generated FacEval dataset and also the source code to automatical
 Requirements:
 1. xx
 
+FacEval dataset
+
+Demo to generate factually corrupted samples:
+
 
 ## Evaluation Demo on BART-Large Model
 
