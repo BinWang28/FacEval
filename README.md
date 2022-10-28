@@ -9,6 +9,9 @@ For more details, please find our paper - [Analyzing and Evaluating Faithfulness
 
 ## Generated FacEval Dataset
 
+We provide our generated FacEval dataset and also the source code to automatically generate them, which can be further improved and extended to other datasets.
+
+Requirements:
 
 
 ## Evaluation Example on BART-Large Model
