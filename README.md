@@ -5,7 +5,7 @@ For more details, please find our paper - [Analyzing and Evaluating Faithfulness
 ## Human Evaluation Results
 
 - [Results](https://github.com/BinWang28/FacEval/tree/main/human_result)
-- CSV format + 150 dialogues + 5 candidates per dialogue + 7 error types
+- CSV format + 150 dialogues + 5 candidates per dialogue + 6 error types
 
 ## Generated FacEval Dataset
 
