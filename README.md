@@ -14,7 +14,9 @@ We provide our generated FacEval dataset and also the source code to automatical
 Requirements:
 
 
-## Evaluation Example on BART-Large Model
+## Evaluation Demo on BART-Large Model
+
+We provide the evaluation demo on BART-Large model. Because our proposed model-level evaluation needs the direct access to the model's generation probabilities. The model needs to be loaded as well for testing.
 
 ## References
 
