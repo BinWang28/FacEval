@@ -31,6 +31,11 @@ We provide the evaluation demo on BART-Large model. Because our proposed model-l
 
 First, download the trained BART-Large model (.bin) from [Google Drive](https://drive.google.com/drive/folders/1XRpewVDUZwaQr8CVYCDd85Ob-VL0LbhL?usp=sharing) and place it in folder 'trained_model'.
 
+Run the following bash to compute the score on different error types for BART-Large mdoel.
+```
+bash eval_demo.sh
+```
+
 ## References
 
 If you find our work useful, please consider citing our work.
