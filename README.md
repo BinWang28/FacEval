@@ -29,6 +29,8 @@ Demo to generate factually corrupted samples:
 
 We provide the evaluation demo on BART-Large model. Because our proposed model-level evaluation needs the direct access to the model's generation probabilities. The model needs to be loaded as well for testing.
 
+First, download
+
 ## References
 
 If you find our work useful, please consider citing our work.

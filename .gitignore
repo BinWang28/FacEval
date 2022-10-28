@@ -133,3 +133,4 @@ dmypy.json
 
 github_update.sh
 testing_source/
+trained_model/pytorch_model.bin
