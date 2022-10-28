@@ -11,17 +11,11 @@ For more details, please find our paper - [Analyzing and Evaluating Faithfulness
 
 We provide our generated FacEval dataset and also the source code to automatically generate them, which can be further improved and extended to other datasets.
 
-The following rest of the code is tested with the following environment:
-1. python==3.7
-2. nltk==3.7
-3. numpy==1.21.5
-4. torch==1.10.1 
-5. torchvision==0.11.2 
-6. torchaudio==0.10.1
-7. torch==1.10.0+cu111 torchvision==0.11.0+cu111 torchaudio==0.10.0 -f https://download.pytorch.org/whl/torch_stable.html
-8. transformers==4.13
-9. accelerate==0.5.1
-10. datasets==2.4.0
+We test the code with python 3.7 and below requirements.
+
+```
+pip install -r requirements.txt
+```
 
 
 
