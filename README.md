@@ -17,12 +17,12 @@ We test the code with python 3.7 and below requirements.
 pip install -r requirements.txt
 ```
 
+The generated FacEval dataset is 'data/faceval_samples.json'.
 
-
-
-FacEval dataset
-
-Demo to generate factually corrupted samples:
+Demo to generate factually corrupted samples
+```
+demoxxx
+```
 
 
 ## Evaluation Demo on BART-Large Model
