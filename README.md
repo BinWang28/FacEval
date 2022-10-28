@@ -29,7 +29,7 @@ Demo to generate factually corrupted samples:
 
 We provide the evaluation demo on BART-Large model. Because our proposed model-level evaluation needs the direct access to the model's generation probabilities. The model needs to be loaded as well for testing.
 
-First, download
+First, download the trained BART-Large model (.bin) from [Google Drive](https://drive.google.com/drive/folders/1XRpewVDUZwaQr8CVYCDd85Ob-VL0LbhL?usp=sharing) and place it in folder 'trained_model'.
 
 ## References
 
