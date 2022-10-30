@@ -21,7 +21,7 @@ The generated FacEval dataset is 'data/faceval_samples.json'.
 
 Demo to generate factually corrupted samples:
 ```
-demoxxx
+bash data_preparation.sh
 ```
 
 
