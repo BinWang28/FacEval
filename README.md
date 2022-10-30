@@ -35,6 +35,7 @@ Run the following bash to compute the score on different error types for BART-La
 ```
 bash eval_demo.sh
 ```
+The model score will be saved in folder 'scores_log'
 
 ## References
 
