@@ -21,6 +21,7 @@ The generated FacEval dataset is 'data/faceval_samples.json'.
 
 Demo to generate factually corrupted samples:
 ```
+python -m spacy download en_core_web_sm
 bash data_preparation.sh
 ```
 
