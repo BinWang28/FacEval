@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 The generated FacEval dataset is 'data/faceval_samples.json'.
 
-Demo to generate factually corrupted samples
+Demo to generate factually corrupted samples:
 ```
 demoxxx
 ```

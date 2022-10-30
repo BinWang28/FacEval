@@ -10,3 +10,4 @@ torchaudio==0.10.0
 transformers==4.13
 accelerate==0.5.1
 datasets==2.4.0
+spacy==3.4.2
