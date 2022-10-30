@@ -1,9 +1,9 @@
 
-
 echo "= = = = = = = = = = = = = ="
 echo "The project is running..."
 currentDate=`date`
 echo $currentDate
+start=`date +%s`
 echo "= = = = = = = = = = = = = ="
 
 
@@ -126,3 +126,11 @@ python fac_gen_src/main.py \
     --cache_dir ./output/cache \
     --overwrite_cache True \
     --seed 12345
+
+
+echo "= = = = = = = = = = = = = ="
+echo "The project is Finished..."
+end=`date +%s`
+runtime=$((end-start))
+echo "The program takes '$((runtime / 60))' minutes."
+echo "= = = = = = = = = = = = = ="
