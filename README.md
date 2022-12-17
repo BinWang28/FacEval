@@ -27,7 +27,6 @@ python -m spacy download en_core_web_sm
 bash data_preparation.sh
 ```
 
-
 ## Evaluation Demo on BART-Large Model
 
 We provide the evaluation demo on BART-Large model. Because our proposed model-level evaluation needs the direct access to the model's generation probabilities. The model needs to be loaded as well for testing.
