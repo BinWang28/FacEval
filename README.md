@@ -1,11 +1,8 @@
 # Analyzing and Evaluating Faithfulness in Dialogue Summarization (EMNLP 2022)
 
-For more details, please find our paper on arXiv
-
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.11777)
+For more details, please find our paper on arXiv [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.11777).
 
 [(Poster)](poster.pdf)
-
 
 ## Human Evaluation Results
 
