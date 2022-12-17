@@ -43,7 +43,16 @@ The model score will be saved in folder 'scores_log'
 
 If you find our work useful, please consider citing our work.
 
+```bibtex
+@inproceedings{wang2022analyzing,
+  title={Analyzing and Evaluating Faithfulness in Dialogue Summarization},
+  author={Wang, Bin and Zhang, Chen and Zhang, Yan and Chen, Yiming and Li, Haizhou},
+   booktitle={Empirical Methods in Natural Language Processing (EMNLP)},
+   year={2022}
+}
 ```
+
+```bibtex
 @article{wang2022analyzing,
   title={Analyzing and Evaluating Faithfulness in Dialogue Summarization},
   author={Wang, Bin and Zhang, Chen and Zhang, Yan and Chen, Yiming and Li, Haizhou},
@@ -52,13 +61,6 @@ If you find our work useful, please consider citing our work.
 }
 ```
 
-```
-@article{to update with the EMNLP Processings,
-  title={==},
-  author={==},
-  journal={==},
-  year={==}
-}
-```
+
 
 Contact to Bin Wang at [bwang28c@gmail.com](mailto:bwang28c@gmail.com) for any issues.
